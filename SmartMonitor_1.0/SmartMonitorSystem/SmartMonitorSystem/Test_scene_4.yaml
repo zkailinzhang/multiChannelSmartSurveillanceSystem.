@@ -1,0 +1,9 @@
+%YAML:1.0
+Initiate: "OK!"
+...
+---
+MonitorZoonInfo:
+   BoundaryType: 5
+   BoundaryPoints: [ 316, 145, 687, 92, 713, 253, 719, 396, 247, 457,
+       224, 175 ]
+   endMonitorZoonInfo: 0

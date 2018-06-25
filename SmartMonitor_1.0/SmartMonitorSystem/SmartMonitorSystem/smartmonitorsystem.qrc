@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resources/1.ico</file>
+        <file>Resources/2.ico</file>
+        <file>Resources/3.ico</file>
+        <file>Resources/4.ico</file>
+        <file>Resources/5.ico</file>
+        <file>Resources/6.ico</file>
+        <file>Resources/7.ico</file>
+        <file>Resources/8.ico</file>
+        <file>Resources/9.ico</file>
+        <file>Resources/10.ico</file>
+        <file>Resources/11.ico</file>
+        <file>Resources/12.png</file>
+        <file>Resources/13.png</file>
+        <file>Resources/14.ico</file>
+        <file>Resources/15.ico</file>
+        <file>Resources/16.ico</file>
+        <file>Resources/17.ico</file>
+        <file>Resources/18.ico</file>
+        <file>Resources/20.ico</file>
+        <file>Resources/21.ico</file>
+        <file>Resources/22.ico</file>
+        <file>Resources/23.ico</file>
+        <file>Resources/24.ico</file>
+        <file>Resources/25.ico</file>
+        <file>Resources/26.ico</file>
+        <file>Resources/27.ico</file>
+        <file>Resources/28.ico</file>
+        <file>Resources/29.ico</file>
+        <file>Resources/30.ico</file>
+        <file>Resources/31.ico</file>
+        <file>Resources/32.ico</file>
+        <file>Resources/33.ico</file>
+        <file>Resources/34.ico</file>
+        <file>Resources/35.png</file>
+    </qresource>
+</RCC>

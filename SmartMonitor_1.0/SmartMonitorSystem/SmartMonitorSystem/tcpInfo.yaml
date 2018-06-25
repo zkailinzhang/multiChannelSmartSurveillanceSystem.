@@ -1,0 +1,13 @@
+%YAML:1.0
+Initiate: "OK!"
+...
+---
+TcpSocketInfo:
+   ServerIP: "10.1.34.149"
+   client_1_ip: "10.1.34.10"
+   client_2_ip: "10.1.34.11"
+   client_3_ip: "10.1.34.12"
+   client_4_ip: "10.1.34.13"
+   PORT: 4000
+   MaxRecv: 10
+   endTcpSocketInfo: 0

@@ -1,0 +1,30 @@
+%YAML:1.0
+Initiate: "OK!"
+...
+---
+RestrictedZoonInfo:
+   objArea: 1
+   objType: 0
+   endRestrictedZoonInfo: 0
+...
+---
+LocalVideoInfo:
+   VideoPath: "E:/MonitorVideo/scene_1.avi"
+   PlayRate: 12
+   endLocalVideoInfo: 0
+...
+---
+RetrogradeInfo:
+   direction: 180
+   winSize: 21
+   featuresNum: 200
+   errorLevel: 2
+   refreshRate: 5
+   endRetrogradeInfo: 0
+...
+---
+MonitorZoonInfo:
+   BoundaryType: 5
+   BoundaryPoints: [ 163, 158, 472, 168, 552, 113, 686, 123, 693, 456,
+       168, 429 ]
+   endMonitorZoonInfo: 0

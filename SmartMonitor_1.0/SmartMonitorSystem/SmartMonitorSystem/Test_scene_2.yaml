@@ -1,0 +1,16 @@
+%YAML:1.0
+Initiate: "OK!"
+...
+---
+LocalVideoInfo:
+   VideoPath: "E:/MonitorVideo/scene_1.avi"
+   PlayRate: 4
+   endLocalVideoInfo: 0
+...
+---
+CrowdEstimateInfo:
+   BackgroundBuiltMode: 2
+   densityClassifyType: 1
+   learningFrames: 5
+   historyFrames: 10
+   endCrowdEstimateInfo: 0

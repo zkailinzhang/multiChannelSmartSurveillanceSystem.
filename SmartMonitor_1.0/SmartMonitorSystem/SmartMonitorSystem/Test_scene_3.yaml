@@ -1,0 +1,11 @@
+%YAML:1.0
+Initiate: "OK!"
+...
+---
+RetrogradeInfo:
+   direction: 0
+   winSize: 21
+   featuresNum: 100
+   errorLevel: 2
+   refreshRate: 5
+   endRetrogradeInfo: 0
